@@ -65,23 +65,6 @@ I'm open to working on:
 
 
 ---
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=&show_icons=navanthiga&theme=tokyonight" height="165px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=navanthiga&theme=tokyonight" height="165px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navanthiga&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=navanthiga&style=flat-square&color=blue" alt="Profile Views" />
-</p>
-
----
 
 ✨ *"Let’s code with logic, build with heart, and dance through every challenge!"* 💃
