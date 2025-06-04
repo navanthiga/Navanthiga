@@ -1,16 +1,21 @@
-## Hi there 👋
+🎓 BTech student in Artificial Intelligence & Data Science | 💻 Aspiring Software Engineer
 
-<!--
-**navanthiga/Navanthiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm currently pursuing my BTech in AI & Data Science. I'm passionate about solving real-world problems through technology, and I'm particularly interested in building intelligent web applications and impactful EdTech solutions.
 
-Here are some ideas to get you started:
+🔧 Tech Stack:
+- Languages: Python, C++, Java
+- Skills: Web Development, Machine Learning, AI Models
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Goals:
+- Actively building a strong project portfolio
+- Open to collaborating on open-source contributions
+- Seeking exciting internship opportunities in AI and software development
+
+📌 Achievements:
+- Consistently maintaining a 9+ GPA in college
+
+💃 When I’m not coding, you’ll find me dancing — I believe creativity on stage fuels creativity in code.
+
+Let’s connect, collaborate, and create!
+
+
