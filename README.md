@@ -68,7 +68,7 @@ I'm open to working on:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=&show_icons=navanthigatrue&theme=tokyonight" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=&show_icons=navanthiga&theme=tokyonight" height="165px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=navanthiga&theme=tokyonight" height="165px"/>
 </p>
 
