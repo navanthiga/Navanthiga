@@ -5,7 +5,7 @@
 I'm a BTech student in **Artificial Intelligence & Data Science**, passionate about building smart, scalable, and impactful tech. I enjoy developing AI models, crafting intuitive web apps, and contributing to open-source projects. With a strong academic background and a creative spark from dance, I bring both logic and energy to everything I do!
 
 ### 🏆 Achievements:
-- 📚 9-pointer student while pursuing a dual degree (consistently!)
+- 📚 9-pointer student while pursuing a dual degree 
 - 👩‍💻 Built AI-powered and EdTech applications
 - 💃 Passionate classical dancer – creativity meets code!
 
@@ -39,8 +39,8 @@ I'm a BTech student in **Artificial Intelligence & Data Science**, passionate ab
 
 - Creating smart EdTech platforms for enhanced learning 📘
 - Developing machine learning projects for real-world impact 🤖
-- Exploring full-stack development & cloud deployment ☁️
-- Practicing clean code and contributing to open-source 💬
+- Exploring full-stack development
+- Practicing clean code 
 
 ---
 
@@ -48,8 +48,7 @@ I'm a BTech student in **Artificial Intelligence & Data Science**, passionate ab
 
 I'm open to working on:
 - 🧠 AI/ML and EdTech Projects
-- 🌐 Full Stack Development
-- 🛠️ Open Source Contributions
+- 🌐 Full Stack Developments
 - 🏆 Hackathons & Competitions
 
 ---
