@@ -6,7 +6,7 @@ I'm a BTech student in **Artificial Intelligence & Data Science**, passionate ab
 
 ### 🏆 Achievements:
 - 📚 9-pointer student while pursuing a dual degree 
-- 👩‍💻 Built AI-powered and EdTech applications
+- 👩‍💻 Built AI-powered applications
 - 💃 Passionate classical dancer – creativity meets code!
 
 ---
